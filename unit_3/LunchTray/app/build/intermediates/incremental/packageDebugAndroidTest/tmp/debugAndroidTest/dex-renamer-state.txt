@@ -1,0 +1,7 @@
+#Wed Dec 08 14:58:53 BRT 2021
+base.1=G\:\\Gustavo\\programacao\\android\\basic_android_training\\unit_3\\LunchTray\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\classes.dex
+path.1=classes.dex
+base.0=G\:\\Gustavo\\programacao\\android\\basic_android_training\\unit_3\\LunchTray\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

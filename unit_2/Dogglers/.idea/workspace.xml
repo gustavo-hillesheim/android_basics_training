@@ -6,33 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be30d969-f0a1-4675-8dee-c7d94a44c711" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Affirmations/app/src/main/ic_launcher-playstore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Affirmations/app/src/main/java/dev/gustavohill/affirmations/adapter/ItemAdapter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Affirmations/app/src/main/java/dev/gustavohill/affirmations/data/Datasource.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Affirmations/app/src/main/java/dev/gustavohill/affirmations/model/Affirmation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Affirmations/app/src/main/res/drawable-anydpi-v26/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Affirmations/app/src/main/res/drawable-anydpi-v26/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Affirmations/app/src/main/res/drawable/image1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Affirmations/app/src/main/res/drawable/image10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Affirmations/app/src/main/res/drawable/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Affirmations/app/src/main/res/drawable/image3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Affirmations/app/src/main/res/drawable/image4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Affirmations/app/src/main/res/drawable/image5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Affirmations/app/src/main/res/drawable/image6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Affirmations/app/src/main/res/drawable/image7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Affirmations/app/src/main/res/drawable/image8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Affirmations/app/src/main/res/drawable/image9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Affirmations/app/src/main/res/layout/list_item.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TipTime/app/src/main/ic_launcher-playstore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TipTime/app/src/main/res/drawable-anydpi-v26/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TipTime/app/src/main/res/drawable-anydpi-v26/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TipTime/app/src/main/res/drawable/ic_round_up.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TipTime/app/src/main/res/drawable/ic_service.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TipTime/app/src/main/res/drawable/ic_store.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TipTime/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TipTime/app/src/main/res/values/styles.xml" afterDir="false" />
-    </list>
+    <list default="true" id="be30d969-f0a1-4675-8dee-c7d94a44c711" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +46,7 @@
     <property name="com.android.tools.idea.emulator.frame.cropped" value="true" />
     <property name="com.android.tools.idea.emulator.zoom.toolbar.visible" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../unit_3/Words" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -210,5 +184,27 @@
       <updated>1638885183330</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1638904226400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1638904226400" />
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom" timestamp="1638904227466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1638904227466" />
+    <state width="1877" height="275" key="GridCell.Tab.0.center" timestamp="1638904227466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1638904227466" />
+    <state width="1877" height="275" key="GridCell.Tab.0.left" timestamp="1638904227465">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1638904227465" />
+    <state width="1877" height="275" key="GridCell.Tab.0.right" timestamp="1638904227466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="275" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1638904227466" />
   </component>
 </project>
